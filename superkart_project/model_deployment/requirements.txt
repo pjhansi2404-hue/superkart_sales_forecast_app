@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+huggingface_hub
+gunicorn
+uvicorn
+fastapi
